@@ -1,6 +1,7 @@
 package ch03;
 
 public class Student {
+<<<<<<< HEAD
 	//배열 선언하기
 		String[] name;
 		int[] jumsu;
@@ -61,5 +62,17 @@ public class Student {
 			jumsu = new int[3];
 			
 		}
+=======
+	
+	int hakbun;
+	String hakjum;
+	
+	public void outputhakbun() {
+		System.out.println(hakbun);
+	}
+	public void outputhakjum() {
+		System.out.println(hakjum);
+	}
+>>>>>>> refs/remotes/origin/master
 
 }
