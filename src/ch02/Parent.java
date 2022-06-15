@@ -1,6 +1,7 @@
 package ch02;
 
 public class Parent {
+<<<<<<< HEAD
 	//공통적인 필드나 메소드를 부모클래스에 둔다
 	String name;
 	int age;
@@ -28,5 +29,7 @@ public class Parent {
 	}
 	
 	
+=======
+>>>>>>> refs/remotes/origin/master
 
 }
